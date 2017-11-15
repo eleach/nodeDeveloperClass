@@ -1,3 +1,5 @@
 node_modules/
+a_backups/
 server.log.txt
+server.log
 zSshStepsGit.txt
